@@ -1,1 +1,1 @@
-# conflict-resolution
+# catastrophic-conflict-resolution
